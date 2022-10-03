@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [{
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Dell Cameron",
+            "title": "Fast Company Says Apple Account 'Hacked' by Some Racist Clown",
+            "description": "The business and technology magazine Fast Company said Tuesday night that its Apple News account had been hacked and that the perpetrators had used it blast subscribers with racist notifications.Read more...",
+            "url": "https://gizmodo.com/fast-company-says-apple-account-hacked-by-some-racist-c-1849589184",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/b6b4d88546a392a55eed077cfc50eaf4.jpg",
+            "publishedAt": "2022-09-28T02:20:00Z",
+            "content": "The business and technology magazine Fast Company said Tuesday night that its Apple News account had been hacked and that the culprit had used it blast subscribers with racist notifications.\r\nFast Co… [+617 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Oliver Darcy",
+            "title": "Apple News users receive racist messages after Fast Company hacked",
+            "description": "The financial news publication Fast Company took the extraordinary step Tuesday night of shutting down its website after the outlet said it was hacked, resulting in a pair of obscene push notifications containing racist language being sent to Apple News subsc…",
+            "url": "https://www.cnn.com/2022/09/27/media/fast-company-apple-news/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220927232934-03-apple-news-fast-company.jpg?q=w_800,c_fill",
+            "publishedAt": "2022-09-28T03:52:03Z",
+            "content": "The financial news publication Fast Company took the extraordinary step Tuesday night of shutting down its website after the outlet said it was hacked, resulting in a pair of obscene push notificatio… [+1496 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Danielle Wiener-Bronner",
+            "title": "The Purple M&M is here, but not the way you might think",
+            "description": "Earlier this year, Mars shocked the internet when it unveiled new looks for its M&M'S characters. Gone were Green's iconic go-go boots, replaced by sneakers. Online, mayhem ensued.",
+            "url": "https://www.cnn.com/2022/09/28/business/new-mms-character/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220923121046-20220923-m-and-ms-new-character.jpg?q=w_800,c_fill",
+            "publishedAt": "2022-09-28T04:09:44Z",
+            "content": "Earlier this year, Mars shocked the internet when it unveiled new looks for its M&amp;MS characters. Gone were Greens iconic go-go boots, replaced by sneakers. Online, mayhem ensued. \r\nNow, M&amp;MS … [+3605 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "harish.jonnalagadda@futurenet.com (Harish Jonnalagadda)",
+            "title": "Google Pixel 6a vs. Apple iPhone SE 2022: Which should you buy?",
+            "description": "The iPhone SE 2022 gets a lot right, but can it measure up to the mighty Pixel 6a? That's what we're here to find out.",
+            "url": "https://www.androidcentral.com/phones/google-pixel-6a-vs-apple-iphone-se-2022",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/MEPTDPEudYrcaAqtSprC4Q-1200-80.jpg",
+            "publishedAt": "2022-09-28T05:36:10Z",
+            "content": "The sub-$500 category is a hotly-contested battleground, with most manufacturers rolling out enticing options. The iPhone SE 2022 was introduced earlier in the year with the A15 Bionic and the same d… [+10483 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Samuel Gibbs Consumer technology editor",
+            "title": "Apple Watch Series 8 review: better women’s health tracking in same capable package",
+            "description": "Minor update adds new temperature sensors and car crash safety features, but higher prices outside US stingThe latest Apple Watch adds new safety features and a temperature sensor for some intriguing uses for women’s health and family planning. But otherwise …",
+            "url": "https://amp.theguardian.com/technology/2022/sep/28/apple-watch-series-8-review-better-womens-health-tracking",
+            "urlToImage": "https://i.guim.co.uk/img/media/46c1c124b8595a43dd33518a85f5a7f7025fa93a/217_469_4898_2938/master/4898.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTUucG5n&enable=upscale&s=6ccdb08924bd78a4bf412324b1d96fb5",
+            "publishedAt": "2022-09-28T06:00:00Z",
+            "content": "The latest Apple Watch adds new safety features and a temperature sensor for some intriguing uses for womens health and family planning. But otherwise it remains the same as last years version.\r\nLike… [+6113 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Juli Clover",
+            "title": "Apple Laying Groundwork for Apple Music Classical Feature Launching in 2022",
+            "description": "Apple appears to be preparing for the upcoming launch of Apple Music Classical, a standalone classical music app that will be available alongside the ‌Apple Music‌ app.\n\n\n\n\n\nMentions of Apple Classical have appeared in backend code used by Apple, suggesting t…",
+            "url": "https://www.macrumors.com/2022/09/27/apple-music-classical-groundwork/",
+            "urlToImage": "https://images.macrumors.com/t/FhOW85qUG3EZBw65R3J6aWTQMFI=/1600x/article-new/2021/08/apple-music.jpg",
+            "publishedAt": "2022-09-28T00:41:46Z",
+            "content": "Apple appears to be preparing for the upcoming launch of Apple Music Classical, a standalone classical music app that will be available alongside the ‌Apple Music‌ app.\r\nMentions of Apple Classical h… [+886 chars]"
+        }
+
+    ]
+}
